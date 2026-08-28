@@ -65,6 +65,4 @@ Electron · React · TypeScript · Vite (via `electron-vite`) · `exifr` for EXI
 
 ## License / credits
 
-Personal project, source available for reference — no open-source license is granted. The **Maintanker** display font used in the UI is personal-use-only (not for commercial or large-scale redistribution); see [salamahtype.com](https://salamahtype.com) for a commercial license if you plan to reuse it elsewhere.
-
 Made by [@sijooyy](https://instagram.com/sijooyy).
