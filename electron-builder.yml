@@ -1,0 +1,20 @@
+appId: com.sijooyy.snipick
+productName: Snipick
+icon: build/icon.png
+directories:
+  buildResources: build
+files:
+  - '!**/.vscode/*'
+  - '!src/*'
+  - '!electron.vite.config.{js,ts,mjs,cjs}'
+  - '!tests/*'
+mac:
+  target: dmg
+win:
+  target: nsis
+linux:
+  target: AppImage
+publish:
+  provider: github
+  owner: Pewcell
+  repo: Snipick
